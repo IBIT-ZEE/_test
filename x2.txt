@@ -1,14 +1,11 @@
+
+
+.master 1
+
+
 x2	x2	x2	x2	x2	x2	x2	x2	x2	x2	x2	x2	x2	x2	x2	x2	
-
-
 x2	x2	x2	x2	x2	x2	x2	x2	
-
-
-
-
 x2	x2	x2	x2	
-
-
 
 edit by xxxxxxxxxxxxxxxxeeeeeeeeeeeee22222222222222222222222222222222
 
